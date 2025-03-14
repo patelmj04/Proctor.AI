@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d61bdfe2-d698-4357-a3e9-74daa9335195)
+
 # ProctorAI
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
@@ -22,7 +22,7 @@
 - **Description**: Flags excessive head motion as suspicious activity.
 - **Implementation**: Tracks the nose tip (landmark `1`) and measures movement using Euclidean distance, with a threshold of 50 pixels.
 - **Advantage**: Identifies consistent head turning or shifting, indicating possible off-screen glances.
-
+![image](https://github.com/user-attachments/assets/d61bdfe2-d698-4357-a3e9-74daa9335195)
 ### Face Monitoring
 - **Description**: Detects and alerts on multiple faces or absence of a face.
 - **Implementation**: Uses Mediapipe’s Face Mesh to limit detection to 2 faces, ensuring a single examinee.
@@ -32,6 +32,7 @@
 - **Description**: Displays immediate warnings on both the video feed and GUI.
 - **Implementation**: Integrates `cv2.putText()` for video alerts and a Tkinter scrolled text box for GUI updates via a callback.
 - **Advantage**: Provides instant feedback to proctors without delay.
+![image](https://github.com/user-attachments/assets/ff2fdeef-a6f2-43fb-933b-9196e8f65f7f)
 
 ### Activity Logging
 - **Description**: Records all suspicious events with timestamps for post-exam review.
