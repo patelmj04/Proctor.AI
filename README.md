@@ -22,7 +22,7 @@
 - **Description**: Flags excessive head motion as suspicious activity.
 - **Implementation**: Tracks the nose tip (landmark `1`) and measures movement using Euclidean distance, with a threshold of 50 pixels.
 - **Advantage**: Identifies consistent head turning or shifting, indicating possible off-screen glances.
-![image](https://github.com/user-attachments/assets/d61bdfe2-d698-4357-a3e9-74daa9335195)
+
 ### Face Monitoring
 - **Description**: Detects and alerts on multiple faces or absence of a face.
 - **Implementation**: Uses Mediapipe’s Face Mesh to limit detection to 2 faces, ensuring a single examinee.
