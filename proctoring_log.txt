@@ -1,183 +1,56 @@
-[2025-03-14 09:33:30.993498] No face detected
-[2025-03-14 09:33:31.527134] Multiple faces detected
-[2025-03-14 09:33:33.319816] Multiple faces detected
-[2025-03-14 09:33:33.730093] Multiple faces detected
-[2025-03-14 09:33:33.753100] Multiple faces detected
-[2025-03-14 09:33:33.777016] Multiple faces detected
-[2025-03-14 09:33:33.820694] Multiple faces detected
-[2025-03-14 09:33:33.843498] Multiple faces detected
-[2025-03-14 09:33:33.865498] Multiple faces detected
-[2025-03-14 09:33:33.994295] No face detected
-[2025-03-14 09:33:38.307007] Multiple faces detected
-[2025-03-14 09:33:39.047287] No face detected
-[2025-03-14 09:33:39.080596] No face detected
-[2025-03-14 09:33:39.123155] No face detected
-[2025-03-14 09:33:39.145711] No face detected
-[2025-03-14 09:33:39.223186] No face detected
-[2025-03-14 09:33:39.246601] No face detected
-[2025-03-14 09:33:39.264930] No face detected
-[2025-03-14 09:33:39.296934] No face detected
-[2025-03-14 09:33:39.357753] No face detected
-[2025-03-14 09:33:39.390841] No face detected
-[2025-03-14 09:33:39.425518] No face detected
-[2025-03-14 09:33:39.457384] No face detected
-[2025-03-14 09:33:39.474091] No face detected
-[2025-03-14 09:33:39.508549] No face detected
-[2025-03-14 09:33:39.541966] No face detected
-[2025-03-14 09:33:39.575174] No face detected
-[2025-03-14 09:33:39.628540] No face detected
-[2025-03-14 09:33:39.657216] No face detected
-[2025-03-14 09:33:39.673887] No face detected
-[2025-03-14 09:33:39.714222] No face detected
-[2025-03-14 09:33:39.756866] No face detected
-[2025-03-14 09:33:39.779779] No face detected
-[2025-03-14 09:33:39.797461] No face detected
-[2025-03-14 09:33:39.845459] No face detected
-[2025-03-14 09:33:39.880948] No face detected
-[2025-03-14 09:33:39.937627] No face detected
-[2025-03-14 09:33:39.963258] No face detected
-[2025-03-14 09:33:39.996653] No face detected
-[2025-03-14 09:33:40.036049] No face detected
-[2025-03-14 09:33:40.048101] No face detected
-[2025-03-14 09:33:40.096939] No face detected
-[2025-03-14 09:33:40.134683] No face detected
-[2025-03-14 09:33:40.145712] No face detected
-[2025-03-14 09:33:40.164246] No face detected
-[2025-03-14 09:33:40.224436] No face detected
-[2025-03-14 09:33:40.257017] No face detected
-[2025-03-14 09:33:40.281521] No face detected
-[2025-03-14 09:33:40.338551] No face detected
-[2025-03-14 09:33:40.363504] No face detected
-[2025-03-14 09:33:40.391365] No face detected
-[2025-03-14 09:33:40.414868] No face detected
-[2025-03-14 09:33:40.474006] No face detected
-[2025-03-14 09:33:40.497592] No face detected
-[2025-03-14 09:33:40.515123] No face detected
-[2025-03-14 09:33:40.545333] No face detected
-[2025-03-14 09:33:40.578848] No face detected
-[2025-03-14 09:33:40.613431] No face detected
-[2025-03-14 09:33:40.645977] No face detected
-[2025-03-14 09:33:40.695946] No face detected
-[2025-03-14 09:33:40.739748] No face detected
-[2025-03-14 09:33:40.762282] No face detected
-[2025-03-14 09:33:40.780240] No face detected
-[2025-03-14 09:33:40.834604] No face detected
-[2025-03-14 09:33:40.856968] No face detected
-[2025-03-14 09:33:40.906972] No face detected
-[2025-03-14 09:33:40.940749] No face detected
-[2025-03-14 09:33:40.956963] No face detected
-[2025-03-14 09:33:40.979801] No face detected
-[2025-03-14 09:33:41.015262] No face detected
-[2025-03-14 09:33:41.046987] No face detected
-[2025-03-14 09:33:41.079660] No face detected
-[2025-03-14 09:33:41.140747] No face detected
-[2025-03-14 09:33:41.173809] No face detected
-[2025-03-14 09:33:41.196641] No face detected
-[2025-03-14 09:33:41.239092] No face detected
-[2025-03-14 09:33:44.939282] Multiple faces detected
-[2025-03-14 09:33:45.519035] Potential cheating: Eyes closed
-[2025-03-14 09:33:45.557597] Potential cheating: Eyes closed
-[2025-03-14 09:33:45.580117] Potential cheating: Eyes closed
-[2025-03-14 09:33:45.618973] Potential cheating: Eyes closed
-[2025-03-14 09:33:45.673443] Potential cheating: Eyes closed
-[2025-03-14 09:33:45.706548] Potential cheating: Eyes closed
-[2025-03-14 09:33:45.738804] Potential cheating: Eyes closed
-[2025-03-14 09:33:45.763798] Potential cheating: Eyes closed
-[2025-03-14 09:33:45.782045] Potential cheating: Eyes closed
-[2025-03-14 09:33:45.812726] Potential cheating: Eyes closed
-[2025-03-14 09:33:45.845287] Potential cheating: Eyes closed
-[2025-03-14 09:33:45.879562] Potential cheating: Eyes closed
-[2025-03-14 09:33:45.919505] Potential cheating: Eyes closed
-[2025-03-14 09:33:45.947274] Potential cheating: Eyes closed
-[2025-03-14 09:33:45.996249] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.036969] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.063100] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.105922] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.136616] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.163882] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.194985] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.219737] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.247567] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.305884] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.323131] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.345408] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.379010] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.419783] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.462388] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.489193] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.511005] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.529989] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.578844] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.624981] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.657719] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.689783] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.740215] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.774200] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.806563] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.839177] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.856474] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.879545] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.920793] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.946401] Potential cheating: Eyes closed
-[2025-03-14 09:33:46.979247] Potential cheating: Eyes closed
-[2025-03-14 09:33:47.020817] Potential cheating: Eyes closed
-[2025-03-14 09:33:47.072422] Potential cheating: Eyes closed
-[2025-03-14 09:33:47.082510] Potential cheating: Eyes closed
-[2025-03-14 09:33:47.140378] Potential cheating: Eyes closed
-[2025-03-14 09:33:47.157984] Potential cheating: Eyes closed
-[2025-03-14 09:33:49.590542] No face detected
-[2025-03-14 09:33:49.761526] No face detected
-[2025-03-14 09:33:49.846246] No face detected
-[2025-03-14 09:33:49.897093] No face detected
-[2025-03-14 09:33:49.939125] No face detected
-[2025-03-14 09:33:49.957529] No face detected
-[2025-03-14 09:33:49.980264] No face detected
-[2025-03-14 09:33:50.012653] No face detected
-[2025-03-14 09:33:50.056410] No face detected
-[2025-03-14 09:33:50.098544] No face detected
-[2025-03-14 09:33:50.130072] No face detected
-[2025-03-14 09:33:50.144832] No face detected
-[2025-03-14 09:33:50.178948] No face detected
-[2025-03-14 09:33:50.212853] No face detected
-[2025-03-14 09:33:50.247757] No face detected
-[2025-03-14 09:33:50.283466] No face detected
-[2025-03-14 09:33:50.332649] No face detected
-[2025-03-14 09:33:50.344915] No face detected
-[2025-03-14 09:33:50.365138] No face detected
-[2025-03-14 09:33:50.413465] No face detected
-[2025-03-14 09:33:50.446946] No face detected
-[2025-03-14 09:33:50.484621] No face detected
-[2025-03-14 09:33:50.534655] No face detected
-[2025-03-14 09:33:50.545136] No face detected
-[2025-03-14 09:33:50.563895] No face detected
-[2025-03-14 09:33:50.598902] No face detected
-[2025-03-14 09:33:50.644475] No face detected
-[2025-03-14 09:33:50.680122] No face detected
-[2025-03-14 09:33:50.712311] No face detected
-[2025-03-14 09:33:50.746128] No face detected
-[2025-03-14 09:33:50.806590] No face detected
-[2025-03-14 09:33:50.829311] No face detected
-[2025-03-14 09:33:50.842342] No face detected
-[2025-03-14 09:33:50.888892] No face detected
-[2025-03-14 09:33:50.914094] No face detected
-[2025-03-14 09:33:50.949584] No face detected
-[2025-03-14 09:33:50.983494] No face detected
-[2025-03-14 09:33:51.031454] No face detected
-[2025-03-14 09:33:51.050181] No face detected
-[2025-03-14 09:33:51.074521] No face detected
-[2025-03-14 09:33:51.113938] No face detected
-[2025-03-14 09:33:51.148190] No face detected
-[2025-03-14 09:33:51.180784] No face detected
-[2025-03-14 09:33:51.214961] No face detected
-[2025-03-14 09:33:51.256542] No face detected
-[2025-03-14 09:33:51.290811] No face detected
-[2025-03-14 09:33:51.326446] No face detected
-[2025-03-14 09:33:51.773132] Potential cheating: Eyes closed
-[2025-03-14 09:33:51.807233] Potential cheating: Eyes closed
-[2025-03-14 09:33:51.838741] Potential cheating: Eyes closed
-[2025-03-14 09:33:51.872861] Potential cheating: Eyes closed
-[2025-03-14 09:33:51.907458] Potential cheating: Eyes closed
-[2025-03-14 09:33:51.940877] Potential cheating: Eyes closed
-[2025-03-14 09:33:51.972719] Potential cheating: Eyes closed
-[2025-03-14 09:33:51.995621] Potential cheating: Eyes closed
-[2025-03-14 09:33:52.023371] Potential cheating: Eyes closed
+[2025-03-14 09:42:44.479715] No face detected
+[2025-03-14 09:42:45.687829] Potential cheating: Eyes closed
+[2025-03-14 09:42:45.712949] Potential cheating: Eyes closed
+[2025-03-14 09:42:45.737580] Potential cheating: Eyes closed
+[2025-03-14 09:42:45.772293] Potential cheating: Eyes closed
+[2025-03-14 09:42:45.812974] Potential cheating: Eyes closed
+[2025-03-14 09:42:45.852831] Potential cheating: Eyes closed
+[2025-03-14 09:42:45.887107] Potential cheating: Eyes closed
+[2025-03-14 09:42:45.922734] Potential cheating: Eyes closed
+[2025-03-14 09:42:45.952828] Potential cheating: Eyes closed
+[2025-03-14 09:42:45.996651] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.017509] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.046620] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.088035] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.121611] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.172562] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.187095] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.212432] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.246140] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.286954] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.321507] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.362864] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.379608] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.404889] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.436415] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.472925] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.529962] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.563293] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.596621] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.646576] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.680169] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.700973] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.720112] Potential cheating: Eyes closed
+[2025-03-14 09:42:46.754823] Potential cheating: Eyes closed
+[2025-03-14 09:42:50.720241] Potential cheating: Eyes closed
+[2025-03-14 09:42:50.753583] Potential cheating: Eyes closed
+[2025-03-14 09:42:50.786848] Potential cheating: Eyes closed
+[2025-03-14 09:42:50.820233] Potential cheating: Eyes closed
+[2025-03-14 09:42:50.853348] Potential cheating: Eyes closed
+[2025-03-14 09:42:50.887884] Potential cheating: Eyes closed
+[2025-03-14 09:42:50.937147] Potential cheating: Eyes closed
+[2025-03-14 09:42:50.969296] Potential cheating: Eyes closed
+[2025-03-14 09:42:51.012857] Potential cheating: Eyes closed
+[2025-03-14 09:42:51.037029] Potential cheating: Eyes closed
+[2025-03-14 09:42:51.078941] Potential cheating: Eyes closed
+[2025-03-14 09:42:51.112864] Potential cheating: Eyes closed
+[2025-03-14 09:42:51.137054] Potential cheating: Eyes closed
+[2025-03-14 09:42:51.169305] Potential cheating: Eyes closed
+[2025-03-14 09:42:51.187124] Potential cheating: Eyes closed
+[2025-03-14 09:42:51.222285] Potential cheating: Eyes closed
+[2025-03-14 09:42:51.264429] Potential cheating: Eyes closed
+[2025-03-14 09:42:51.289153] Potential cheating: Eyes closed
+[2025-03-14 09:42:51.336179] Potential cheating: Eyes closed
+[2025-03-14 09:42:51.369210] Potential cheating: Eyes closed
+[2025-03-14 09:42:51.403668] Potential cheating: Eyes closed
+[2025-03-14 09:42:51.435694] Potential cheating: Eyes closed
