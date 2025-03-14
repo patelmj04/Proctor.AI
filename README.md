@@ -16,7 +16,7 @@
 - **Description**: Monitors eye closure and unusual movements using the Eye Aspect Ratio (EAR).
 - **Implementation**: Calculates EAR from Mediapipe’s facial landmarks (left eye: `[33, 160, 158, 133, 153, 144]`, right eye: `[362, 385, 387, 263, 373, 380]`).
 - **Advantage**: Detects potential cheating behaviors like prolonged eye closure with customizable sensitivity.
-- 
+  
 ![image](https://github.com/user-attachments/assets/4c671668-64da-4090-990c-b9f74a279237)
 
 
