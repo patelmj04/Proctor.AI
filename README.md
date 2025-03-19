@@ -7,7 +7,9 @@
 
 **ProctorAI** is an advanced AI-powered tool designed to monitor student behavior during online proctored exams. Combining computer vision via Mediapipe, machine learning techniques, and a minimalistic Tkinter GUI, it ensures exam integrity with real-time monitoring and logging.
 
-![image](https://github.com/user-attachments/assets/9a85566e-4fe8-43fa-805d-d25c3a65d517)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9a85566e-4fe8-43fa-805d-d25c3a65d517" alt="image">
+</p>
 
 
 ## Advanced Features
