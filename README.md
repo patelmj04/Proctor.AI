@@ -18,9 +18,10 @@
 - **Description**: Monitors eye closure and unusual movements using the Eye Aspect Ratio (EAR).
 - **Implementation**: Calculates EAR from Mediapipe’s facial landmarks (left eye: `[33, 160, 158, 133, 153, 144]`, right eye: `[362, 385, 387, 263, 373, 380]`).
 - **Advantage**: Detects potential cheating behaviors like prolonged eye closure with customizable sensitivity.
-  
-![image](https://github.com/user-attachments/assets/4c671668-64da-4090-990c-b9f74a279237)
 
+ <p align="center">
+  <img src="[https://github.com/user-attachments/assets/9a85566e-4fe8-43fa-805d-d25c3a65d517](https://github.com/user-attachments/assets/4c671668-64da-4090-990c-b9f74a279237)" alt="image">
+</p> 
 
 ### Head Movement Detection
 - **Description**: Flags excessive head motion as suspicious activity.
@@ -37,15 +38,22 @@
 - **Implementation**: Integrates `cv2.putText()` for video alerts and a Tkinter scrolled text box for GUI updates via a callback.
 - **Advantage**: Provides instant feedback to proctors without delay.
 - 
-![image](https://github.com/user-attachments/assets/ff2fdeef-a6f2-43fb-933b-9196e8f65f7f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ff2fdeef-a6f2-43fb-933b-9196e8f65f7f" alt="image">
+</p>
+
 
 ### Activity Logging
 - **Description**: Records all suspicious events with timestamps for post-exam review.
 - **Implementation**: Stores alerts in memory and saves them to `proctoring_log.txt` upon session end.
 - **Advantage**: Enables detailed analysis and evidence collection.
-  
-![image](https://github.com/user-attachments/assets/77e5d72b-e2c9-412a-a8e1-6e261b81ac9d)
-![image](https://github.com/user-attachments/assets/495dd6bb-d498-4939-8077-fddef05b9c57)
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/77e5d72b-e2c9-412a-a8e1-6e261b81ac9d" alt="image">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/495dd6bb-d498-4939-8077-fddef05b9c57" alt="image">
+</p>
 
 
 ### GUI Integration
