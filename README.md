@@ -19,9 +19,10 @@
 - **Implementation**: Calculates EAR from Mediapipe’s facial landmarks (left eye: `[33, 160, 158, 133, 153, 144]`, right eye: `[362, 385, 387, 263, 373, 380]`).
 - **Advantage**: Detects potential cheating behaviors like prolonged eye closure with customizable sensitivity.
 
- <p align="center">
-  <img src="github.com/user-attachments/assets/4c671668-64da-4090-990c-b9f74a279237" alt="image">
-</p> 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c671668-64da-4090-990c-b9f74a279237" alt="image">
+</p>
+
 
 ### Head Movement Detection
 - **Description**: Flags excessive head motion as suspicious activity.
