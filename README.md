@@ -20,7 +20,7 @@
 - **Advantage**: Detects potential cheating behaviors like prolonged eye closure with customizable sensitivity.
 
  <p align="center">
-  <img src="[https://github.com/user-attachments/assets/9a85566e-4fe8-43fa-805d-d25c3a65d517](https://github.com/user-attachments/assets/4c671668-64da-4090-990c-b9f74a279237)" alt="image">
+  <img src="github.com/user-attachments/assets/4c671668-64da-4090-990c-b9f74a279237" alt="image">
 </p> 
 
 ### Head Movement Detection
